@@ -1184,11 +1184,9 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 <div align="center">
 
-### Ali Shair
+### Muhammad ASad
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alishair)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alishair)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alishair@example.com)
+
 
 **Full-Stack Developer | Software Engineer**
 
@@ -1215,6 +1213,7 @@ Special thanks to:
 
 **⭐ If you found this project helpful, please give it a star! ⭐**
 
-Made with ❤️ by [Ali Shair](https://github.com/alishair)
+Made with ❤️ by [Muhammad Asad](https://github.com/asadjan4611)
 
 </div>
+
